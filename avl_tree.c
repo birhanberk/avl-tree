@@ -1,4 +1,5 @@
-#include <stdio.h>
+include <stdio.h>
+
 struct node{
     int key;
     struct node *left;
